@@ -1340,7 +1340,7 @@ rm 'test.txt'
 
 ```
 ┌──(ajest💋zh-CN)-[~/Documents/docS/GIT Course]
-└─$ ssh-keygen -t rsa -C "2279913178@qq.com"
+└─$ ssh-keygen -t rsa -C "xxxxxxxxxx@qq.com"
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/ajest/.ssh/id_rsa): 
 Enter passphrase (empty for no passphrase): 
@@ -1348,7 +1348,7 @@ Enter same passphrase again:
 Your identification has been saved in /home/ajest/.ssh/id_rsa
 Your public key has been saved in /home/ajest/.ssh/id_rsa.pub
 The key fingerprint is:
-SHA256:mCmNpQ4rhZcC/MZKA5IpDX4Za5R9aOId8aMST2dDBas 2279913178@qq.com
+SHA256:mCmNpQ4rhZcC/MZKA5IpDX4Za5R9aOId8aMST2dDBas xxxxxxxxxx@qq.com
 The key's randomart image is:
 +---[RSA 3072]----+
 |.  oo.ooo.       |
@@ -1477,7 +1477,7 @@ core.filemode=true
 core.bare=false
 core.logallrefupdates=true
 user.name=lessTears
-user.email=2279913178@qq.com
+user.email=xxxxxxxxxx@qq.com
 remote.origin.url=git@github.com:lessTears/Git-Course.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
                                                                                                  
@@ -1528,7 +1528,7 @@ core.filemode=true
 core.bare=false
 core.logallrefupdates=true
 user.name=lessTears
-user.email=2279913178@qq.com
+user.email=xxxxxxxxxx@qq.com
                                                                                                  
 ┌──(ajest💋zh-CN)-[~/Documents/docS/GIT Course]
 └─$ 
